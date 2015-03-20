@@ -1,0 +1,24 @@
+{
+  "name": "test-resolver",
+  "version": "1.0.0",
+  "description": "Simple utility to determine the path for modules under test assuming they follow convention",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:MuzzleFork/test-resolver.git"
+  },
+  "keywords": [
+    "test",
+    "location",
+    "resolver"
+  ],
+  "author": "Lucas Eagleton <lucas@eagleton.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuzzleFork/test-resolver/issues"
+  },
+  "homepage": "https://github.com/MuzzleFork/test-resolver"
+}
